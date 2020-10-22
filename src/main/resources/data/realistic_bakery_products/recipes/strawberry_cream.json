@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "SMS",
+        "GGG"
+    ],
+    "key": {
+        "#": {
+            "item": "realistic_bakery_products:strawberry_big"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "M": {
+            "item": "minecraft:milk_bucket"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:strawberry_cream",
+        "count": 4
+    }
+}

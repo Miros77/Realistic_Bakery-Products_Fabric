@@ -1,0 +1,79 @@
+{
+  "itemGroup.realistic_bakery_products.realistic_bakery_products":"Realistic Bakery Products",
+  "item.realistic_bakery_products.raw_bread": "Raw Bread",
+  "item.realistic_bakery_products.raw_cookie": "Raw Cookie",
+  "item.realistic_bakery_products.raw_cake": "Raw Cake",
+  "item.realistic_bakery_products.dough": "Dough",
+  "item.realistic_bakery_products.flour": "Flour",
+
+  "item.realistic_bakery_products.raw_pumpkin_pie": "Raw Pumpkin Pie",
+  "item.realistic_bakery_products.raw_melon_pie": "Raw Melon Pie",
+  "item.realistic_bakery_products.raw_berries_pie": "Raw Berries Pie",
+  "item.realistic_bakery_products.raw_honey_pie": "Raw Honey Pie",
+
+  "item.realistic_bakery_products.raw_honey_cake": "Raw Honey Cake",
+  "item.realistic_bakery_products.raw_chocolate_cake": "Raw Chocolate Cake",
+  "item.realistic_bakery_products.raw_strawberry_cake": "Raw Strawberry Сake",
+
+  "item.realistic_bakery_products.melon_pie": "Melon Pie",
+  "item.realistic_bakery_products.berries_pie": "Berries Pie",
+  "item.realistic_bakery_products.honey_pie": "Honey Pie",
+
+  "item.realistic_bakery_products.cream": "Cream",
+  "item.realistic_bakery_products.chocolate_cream": "Chocolate Cream",
+  "item.realistic_bakery_products.strawberry_cream": "Strawberry Сream",
+ 
+  "item.realistic_bakery_products.honey_cream": "Honey Сream",
+
+  "item.realistic_bakery_products.strawberry_donut": "Strawberry Donut",
+  "item.realistic_bakery_products.chocolate_donut": "Chocolate Donut",
+  "item.realistic_bakery_products.honey_donut": "Honey Donut",
+  "item.realistic_bakery_products.cream_donut": "Donut with Cream",
+  "item.realistic_bakery_products.coked_donut": "Coked Donut",
+
+  "item.realistic_bakery_products.raw_strawberry_donut": "Raw Strawberry Donut",
+  "item.realistic_bakery_products.raw_chocolate_donut": "Raw Chocolate Donut",
+  "item.realistic_bakery_products.raw_honey_donut": "Raw Honey Donut",
+  "item.realistic_bakery_products.raw_cream_donut": "Raw Donut with Cream",
+  "item.realistic_bakery_products.raw_donut": "Raw Donut",
+
+  "block.realistic_bakery_products.chocolate_cake": "Chocolate Cake",
+  "block.realistic_bakery_products.honey_cake": "Honey Cake",
+  "block.realistic_bakery_products.strawberry_cake": "Strawberry Cake",
+
+  "item.realistic_bakery_products.strawberry": "Strawberry",
+  "block.realistic_bakery_products.strawberrybush": "Strawberry Bush",
+
+  "item.realistic_bakery_products.carrot_pie": "Carrot Pie",
+  "item.realistic_bakery_products.raw_carrot_pie": "Raw Carrot Pie",
+  "item.realistic_bakery_products.raw_honey_shortcake": "Raw Honey Shortcake",
+
+  "item.realistic_bakery_products.pumpkin_slice": "Pumpkin Slice",
+
+  "item.realistic_bakery_products.chocolate_cookie": "Chocolate Cookie",
+  "item.realistic_bakery_products.raw_chocolate_cookie": "Raw Chocolate Cookie",
+  "item.realistic_bakery_products.crumbs_cookie": "Crumbs Cookie",
+  "item.realistic_bakery_products.bun": "Bun",
+  "item.realistic_bakery_products.raw_strawberry_pie": "Raw Strawberry Pie",
+  "item.realistic_bakery_products.strawberry_pie": "Strawberry Pie",
+  "item.realistic_bakery_products.chocolate_dough": "Chocolate Dough",  
+
+  "item.realistic_bakery_products.strawberry_seed": "Strawberry Seed",
+  "item.realistic_bakery_products.strawberry_hay": "Strawberry Hay",
+  "item.realistic_bakery_products.strawberry_big": "Strawberry Big",
+  
+  //NEW
+
+  //Block
+  "block.realistic_bakery_products.strawberrybush_hay": "Strawberrybush Hay",
+  "block.realistic_bakery_products.raw_cake": "Raw Cake",
+  "block.realistic_bakery_products.raw_chocolate_cake": "Raw Chocolate Cake",
+  "block.realistic_bakery_products.raw_strawberry_cake": "Raw Strawberry Cake",
+  "block.realistic_bakery_products.raw_honey_cake": "Raw Honey Cake",
+  "block.realistic_bakery_products.cheese_block": "Cheese Block",
+  "block.realistic_bakery_products.pizza": "Pizza",
+  "block.realistic_bakery_products.raw_pizza": "Raw Pizza",
+
+  //Item
+  "item.realistic_bakery_products.cheese_slice": "Cheese Slice"
+}

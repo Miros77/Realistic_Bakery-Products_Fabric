@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "P",
+        "R"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:egg"
+        },
+        "P": {
+            "item": "minecraft:water_bucket"
+        },
+        "R": {
+            "item": "realistic_bakery_products:flour"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:dough",
+        "count": 3
+    }
+}

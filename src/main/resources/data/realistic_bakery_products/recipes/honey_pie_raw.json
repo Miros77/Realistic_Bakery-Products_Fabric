@@ -1,0 +1,23 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S",
+        "R "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:honey_bottle"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "R": {
+            "item": "realistic_bakery_products:dough"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:raw_honey_pie",
+        "count": 1
+    }
+}

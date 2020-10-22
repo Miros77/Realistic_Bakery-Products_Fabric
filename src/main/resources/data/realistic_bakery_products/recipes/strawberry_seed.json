@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "realistic_bakery_products:strawberry"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:strawberry_seed",
+        "count": 1
+    }
+}

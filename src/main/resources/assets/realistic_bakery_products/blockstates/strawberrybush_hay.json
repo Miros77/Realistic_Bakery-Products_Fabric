@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "realistic_bakery_products:block/strawberry_hay_stage0"
+    },
+    "age=1": {
+      "model": "realistic_bakery_products:block/strawberry_hay_stage1"
+    },
+    "age=2": {
+      "model": "realistic_bakery_products:block/strawberry_hay_stage2"
+    },
+    "age=3": {
+      "model": "realistic_bakery_products:block/strawberry_hay_stage3"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "SMS",
+        "GGG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:honey_bottle"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "M": {
+            "item": "minecraft:milk_bucket"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:honey_cream",
+        "count": 4
+    }
+}

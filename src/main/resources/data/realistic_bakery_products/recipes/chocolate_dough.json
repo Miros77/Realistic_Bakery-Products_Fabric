@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# ",
+        "PC",
+        "S "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:egg"
+        },
+        "P": {
+            "item": "minecraft:potion"
+        },
+        "C": {
+            "item": "minecraft:cocoa_beans"
+        },
+        "S": {
+            "item": "realistic_bakery_products:flour"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:chocolate_dough",
+        "count": 4
+    }
+}

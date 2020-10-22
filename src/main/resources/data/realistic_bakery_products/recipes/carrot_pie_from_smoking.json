@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "realistic_bakery_products:raw_carrot_pie"
+    },
+    "result": "realistic_bakery_products:carrot_pie",
+    "experience": 2,
+    "cookingtime": 100
+}

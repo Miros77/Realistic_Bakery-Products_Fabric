@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "realistic_bakery_products:raw_strawberry_cake"
+    },
+    "result": "realistic_bakery_products:strawberry_cake",
+    "experience": 2,
+    "cookingtime": 100
+}

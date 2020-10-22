@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"3": "realistic_bakery_products:block/raw_cake/raw_strawberry_cake/raw_strawberry_cake_top",
+		"6": "realistic_bakery_products:block/raw_cake/raw_strawberry_cake/raw_cake_bottom",
+		"8": "realistic_bakery_products:block/raw_cake/raw_strawberry_cake/raw_strawberry_cake_side",
+        "bottom": "realistic_bakery_products:block/raw_cake/raw_strawberry_cake/raw_cake_bottom",
+        "particle": "realistic_bakery_products:block/cake/strawberry_cake/strawberry_cake_top"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [1, 8, 15, 16], "texture": "#8"},
+				"east": {"uv": [1, 8, 15, 16], "texture": "#8"},
+				"south": {"uv": [1, 8, 15, 16], "texture": "#8"},
+				"west": {"uv": [1, 8, 15, 16], "texture": "#8"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#3"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#6", "cullface": "down"}
+			}
+		}
+	]
+}

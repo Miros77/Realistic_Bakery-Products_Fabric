@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "H",
+        "G"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:egg"
+        },
+        "H": {
+            "item": "minecraft:honey_bottle"
+        },
+        "G": {
+            "item": "realistic_bakery_products:flour"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:raw_honey_shortcake",
+        "count": 3
+    }
+}

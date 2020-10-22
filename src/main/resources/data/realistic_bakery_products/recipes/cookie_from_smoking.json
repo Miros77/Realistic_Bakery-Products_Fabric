@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "realistic_bakery_products:raw_cookie"
+    },
+    "result": "minecraft:cookie",
+    "experience": 2,
+    "cookingtime": 100
+}

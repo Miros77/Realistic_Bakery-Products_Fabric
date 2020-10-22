@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "SSS",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "realistic_bakery_products:raw_honey_shortcake"
+        },
+        "S": {
+            "item": "realistic_bakery_products:cream"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:raw_honey_cake",
+        "count": 1
+    }
+}

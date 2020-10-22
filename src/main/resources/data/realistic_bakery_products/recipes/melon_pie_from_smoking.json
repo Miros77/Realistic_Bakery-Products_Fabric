@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "realistic_bakery_products:raw_melon_pie"
+    },
+    "result": "realistic_bakery_products:melon_pie",
+    "experience": 2,
+    "cookingtime": 100
+}

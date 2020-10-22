@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "realistic_bakery_products:raw_pizza"
+    },
+    "result": "realistic_bakery_products:pizza",
+    "experience": 2,
+    "cookingtime": 100
+}

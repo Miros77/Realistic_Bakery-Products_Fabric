@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#M#",
+        "GGG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sugar"
+        },
+        "M": {
+            "item": "minecraft:milk_bucket"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:cream",
+        "count": 3
+    }
+}

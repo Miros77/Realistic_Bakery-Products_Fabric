@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "realistic_bakery_products:block/raw_cake/raw_chocolate_cake/raw_chocolate_cake_top",
+		"1": "realistic_bakery_products:block/raw_cake/raw_chocolate_cake/raw_cake_bottom",
+		"2": "realistic_bakery_products:block/raw_cake/raw_chocolate_cake/raw_chocolate_cake_inner",
+		"3": "realistic_bakery_products:block/raw_cake/raw_chocolate_cake/raw_chocolate_cake_side",
+		"particle": "realistic_bakery_products:block/raw_cake/raw_chocolate_cake/raw_chocolate_cake_top"
+	},
+	"elements": [
+		{
+			"from": [11, 0, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [1, 8, 5, 16], "texture": "#3"},
+				"east": {"uv": [1, 8, 15, 16], "texture": "#3"},
+				"south": {"uv": [11, 8, 15, 16], "texture": "#3"},
+				"west": {"uv": [1, 8, 15, 16], "texture": "#2"},
+				"up": {"uv": [11, 1, 15, 15], "texture": "#0"},
+				"down": {"uv": [11, 1, 15, 15], "texture": "#1", "cullface": "down"}
+			}
+		}
+	]
+}

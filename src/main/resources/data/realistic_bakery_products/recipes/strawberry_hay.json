@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "W"
+    ],
+    "key": {
+        "#": {
+            "item": "realistic_bakery_products:strawberry_seed"
+        },
+        "W": {
+            "item": "minecraft:wheat"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:strawberry_hay",
+        "count": 2
+    }
+}

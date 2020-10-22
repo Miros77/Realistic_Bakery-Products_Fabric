@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "YAB",
+        "EEE"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cooked_beef"
+        },
+        "Y": {
+            "item": "realistic_bakery_products:cheese_slice"
+        },
+        "A": {
+            "item": "minecraft:beetroot"
+        },
+        "B": {
+            "item": "minecraft:brown_mushroom"
+        },
+        "E": {
+            "item": "realistic_bakery_products:dough"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:raw_pizza",
+        "count": 1
+    }
+}

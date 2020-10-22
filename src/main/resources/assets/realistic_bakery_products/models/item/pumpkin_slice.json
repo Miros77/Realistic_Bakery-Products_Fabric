@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "realistic_bakery_products:items/pumpkin_slice"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, -86.25, 133.25],
+			"translation": [0, 8, -0.25]
+		}
+	}
+}

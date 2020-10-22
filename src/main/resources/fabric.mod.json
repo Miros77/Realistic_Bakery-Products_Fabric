@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "realistic_bakery_products",
+  "version": "${version}",
+
+  "name": "Realistic Bakery Products",
+  "description": "Mod will complicate the crafting of bakery products",
+  "authors": [
+    "Miros77"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/realistic_bakery_products/icon.png",
+
+  "environment": "*",
+"entrypoints": {
+    "main": [
+      "com.miros77.rbp.Tutorial"
+    ],
+    "client": [
+      "com.miros77.rbp.RBPclient"
+    ]
+},
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

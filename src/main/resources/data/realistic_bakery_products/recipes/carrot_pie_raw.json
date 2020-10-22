@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S",
+        "R "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:carrot"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "R": {
+            "item": "realistic_bakery_products:dough"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:raw_carrot_pie",
+        "count": 1
+    }
+}

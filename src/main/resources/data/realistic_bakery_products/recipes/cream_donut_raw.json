@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "R"
+    ],
+    "key": {
+        "#": {
+            "item": "realistic_bakery_products:cream"
+        },
+        "R": {
+            "item": "realistic_bakery_products:raw_donut"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:raw_cream_donut",
+        "count": 1
+    }
+}

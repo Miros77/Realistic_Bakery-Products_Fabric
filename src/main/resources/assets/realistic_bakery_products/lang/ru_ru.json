@@ -1,0 +1,79 @@
+{
+  "itemGroup.realistic_bakery_products.realistic_bakery_products":"Realistic Bakery Products",
+  "item.realistic_bakery_products.raw_bread": "Сырой Хлеб",
+  "item.realistic_bakery_products.raw_cookie": "Сырое Печенье",
+  "item.realistic_bakery_products.raw_cake": "Сырой Торт",
+  "item.realistic_bakery_products.dough": "Тесто",
+  "item.realistic_bakery_products.flour": "Мука",
+
+  "item.realistic_bakery_products.raw_pumpkin_pie": "Сырой Тыквеный Пирог",
+  "item.realistic_bakery_products.raw_melon_pie": "Сырой Арбузный Пирог",
+  "item.realistic_bakery_products.raw_berries_pie": "Сырой Ягодный Пирог",
+  "item.realistic_bakery_products.raw_honey_pie": "Сырой Медовый Пирог",
+
+  "item.realistic_bakery_products.raw_honey_cake": "Сырой Медовый Торт",
+  "item.realistic_bakery_products.raw_chocolate_cake": "Сырой Шоколадный Торт",
+  "item.realistic_bakery_products.raw_strawberry_cake": "Сырой Клубничный Торт",
+
+  "item.realistic_bakery_products.melon_pie": "Арбузный Пирог",
+  "item.realistic_bakery_products.berries_pie": "Ягодгый Пирог",
+  "item.realistic_bakery_products.honey_pie": "Медовый Пирог",
+
+  "item.realistic_bakery_products.cream": "Крем",
+  "item.realistic_bakery_products.chocolate_cream": "Шоколадный Крем",
+  "item.realistic_bakery_products.strawberry_cream": "Клубничный Крем",
+  "item.realistic_bakery_products.honey_cream": "Медовый Крем",
+  
+  "item.realistic_bakery_products.strawberry_donut": "Клубничный Пончик",
+  "item.realistic_bakery_products.chocolate_donut": "Шоколадный Пончик",
+  "item.realistic_bakery_products.honey_donut": "Медовый Пончик",
+  "item.realistic_bakery_products.cream_donut": "Пончик с Кремом",
+  "item.realistic_bakery_products.coked_donut": "Приготовленый Пончик",
+  "item.realistic_bakery_products.raw_strawberry_donut": "Сырой Клубничный Пончик",
+  "item.realistic_bakery_products.raw_chocolate_donut": "Сырой Шоколадный Пончик",
+  "item.realistic_bakery_products.raw_honey_donut": "Сырой Медовый Пончик",
+  "item.realistic_bakery_products.raw_cream_donut": "Сырой Пончик с Кремом",
+  "item.realistic_bakery_products.raw_donut": "Сырой Пончик",
+
+  "block.realistic_bakery_products.chocolate_cake": "Шоколадный Торт",
+  "block.realistic_bakery_products.honey_cake": "Медовый Торт",
+  "block.realistic_bakery_products.strawberry_cake": "Клубничный Торт",
+
+  "item.realistic_bakery_products.strawberry": "Клубника",
+  "block.realistic_bakery_products.strawberrybush": "Клубничный Куст",
+ 
+
+  "item.realistic_bakery_products.carrot_pie": "Марковный Пирог",
+  "item.realistic_bakery_products.raw_carrot_pie": "Сырой Марковный Пирог",
+  "item.realistic_bakery_products.raw_honey_shortcake": "Сырой Медовый Корж",
+
+  "item.realistic_bakery_products.pumpkin_slice": "Ломтик Тыквы",
+
+   "item.realistic_bakery_products.chocolate_cookie": "Шоколадные Печенья",
+   "item.realistic_bakery_products.raw_chocolate_cookie": "Сырые Шоколадные Печенья",
+   "item.realistic_bakery_products.crumbs_cookie": "Крошки Печенья",
+   "item.realistic_bakery_products.bun": "Булочка",
+   "item.realistic_bakery_products.strawberry_pie": "Крубничный Пирог",
+   "item.realistic_bakery_products.raw_strawberry_pie": "Сырой Крубничный Пирог",
+   "item.realistic_bakery_products.chocolate_dough": "Шоколадное Тесто",
+   
+
+   "item.realistic_bakery_products.strawberry_seed": "Семена Клубники",
+   "item.realistic_bakery_products.strawberry_hay": "Семена Клубники с Сеном",
+   "item.realistic_bakery_products.strawberry_big": "Большая Клубника",
+
+     //Новые
+
+   //Блоки
+   "block.realistic_bakery_products.strawberrybush_hay": "Клубника с Сеном",
+   "block.realistic_bakery_products.raw_cake": "Сырой Торт",
+   "block.realistic_bakery_products.raw_chocolate_cake": "Сырой Шоколадный Торт",
+   "block.realistic_bakery_products.raw_strawberry_cake": "Сырой Клубничный Торт",
+   "block.realistic_bakery_products.raw_honey_cake": "Сырой Медовый Торт",
+   "block.realistic_bakery_products.cheese_block": "Блок Сыра",
+   "block.realistic_bakery_products.pizza": "Пицца",
+   "block.realistic_bakery_products.raw_pizza": "Сырая Пицца",
+ 
+   //Предметы
+   "item.realistic_bakery_products.cheese_slice": "Ломтик Сыра"
+}

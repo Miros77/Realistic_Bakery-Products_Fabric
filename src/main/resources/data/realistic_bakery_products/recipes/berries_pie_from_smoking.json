@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "realistic_bakery_products:raw_berries_pie"
+    },
+    "result": "realistic_bakery_products:berries_pie",
+    "experience": 2,
+    "cookingtime": 100
+}

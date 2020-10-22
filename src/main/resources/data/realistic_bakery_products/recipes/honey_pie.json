@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "realistic_bakery_products:raw_honey_pie"
+    },
+    "result": "realistic_bakery_products:honey_pie",
+    "experience": 0.1,
+    "cookingtime": 200
+}

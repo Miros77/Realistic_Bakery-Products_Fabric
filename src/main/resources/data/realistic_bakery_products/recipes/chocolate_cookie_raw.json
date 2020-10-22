@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "RRR"
+    ],
+    "key": {
+        "#": {
+            "item": "realistic_bakery_products:crumbs_cookie"
+        },
+        "R": {
+            "item": "realistic_bakery_products:chocolate_dough"
+        }
+    },
+    "result": {
+        "item": "realistic_bakery_products:raw_chocolate_cookie",
+        "count": 9
+    }
+}

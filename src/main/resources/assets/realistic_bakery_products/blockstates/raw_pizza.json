@@ -1,0 +1,12 @@
+
+{
+    "variants": {
+        "bites=0": { "model": "realistic_bakery_products:block/raw_pizza" },
+        "bites=1": { "model": "realistic_bakery_products:block/raw_pizza_slice1" },
+        "bites=2": { "model": "realistic_bakery_products:block/raw_pizza_slice2" },
+        "bites=3": { "model": "realistic_bakery_products:block/raw_pizza_slice3" },
+        "bites=4": { "model": "realistic_bakery_products:block/raw_pizza_slice4" },
+        "bites=5": { "model": "realistic_bakery_products:block/raw_pizza_slice5" },
+        "bites=6": { "model": "realistic_bakery_products:block/raw_pizza_slice6" }
+    }
+}

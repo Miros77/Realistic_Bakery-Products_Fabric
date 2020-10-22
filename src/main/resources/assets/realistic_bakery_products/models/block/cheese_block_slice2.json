@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"6": "realistic_bakery_products:block/cheese/cheese_inner",
+		"particle": "realistic_bakery_products:block/cheese/cheese_inner"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [1, 8, 11, 16], "texture": "#6"},
+				"east": {"uv": [1, 8, 15, 16], "texture": "#6"},
+				"south": {"uv": [5, 8, 15, 16], "texture": "#6"},
+				"west": {"uv": [1, 8, 15, 16], "texture": "#6"},
+				"up": {"uv": [5, 2, 15, 16], "texture": "#6"},
+				"down": {"uv": [1, 2, 15, 12], "rotation": 90, "texture": "#6", "cullface": "down"}
+			}
+		}
+	]
+}

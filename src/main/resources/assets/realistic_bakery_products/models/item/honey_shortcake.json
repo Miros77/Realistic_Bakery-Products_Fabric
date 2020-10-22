@@ -1,0 +1,62 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "realistic_bakery_products:block/honey_cake_top",
+		"2": "realistic_bakery_products:block/honey_cake_side",
+		"particle": "realistic_bakery_products:block/honey_cake_top"
+	},
+	"elements": [
+		{
+			"from": [0.9, 0, 0.9],
+			"to": [15.1, 1, 15.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 9]},
+			"faces": {
+				"north": {"uv": [1, 13, 15, 14], "texture": "#2"},
+				"east": {"uv": [1, 13, 15, 14], "texture": "#2"},
+				"south": {"uv": [1, 13, 15, 14], "texture": "#2"},
+				"west": {"uv": [1, 13, 15, 14], "texture": "#2"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#0"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [65, 0, 0],
+			"translation": [0, 3.25, 2],
+			"scale": [0.44727, 0.44727, 0.44727]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [67.5, 0, 0],
+			"translation": [0, 2.75, 0.5],
+			"scale": [0.44727, 0.44727, 0.44727]
+		},
+		"firstperson_righthand": {
+			"translation": [6.25, 0.75, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [4.25, 0, 0]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0]
+		},
+		"gui": {
+			"rotation": [39, -45, 0],
+			"translation": [0, 2.25, 0],
+			"scale": [0.69922, 0.69922, 0.69922]
+		},
+		"head": {
+			"translation": [0, 8.5, 0]
+		},
+		"fixed": {
+			"translation": [0, 1.75, -1]
+		}
+	},
+	"groups": [
+		{
+			"name": "shortcake(cake)",
+			"origin": [9, 8, 9],
+			"children": [0]
+		}
+	]
+}
